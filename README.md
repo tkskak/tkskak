@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Contact
-- Email: your-email@example.com
+- Email: shinhee2121@gmail.com
 - Blog/Portfolio: https://your-site.example
 
 ---
